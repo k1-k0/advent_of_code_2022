@@ -15,9 +15,9 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
-	"Create AoD template": {
+	"Create AoC template": {
 		"scope": "python",
-		"prefix": "aodt",
+		"prefix": "aoct",
 		"body": [
 			"\n\n",
 			"def main():",
@@ -29,6 +29,6 @@
 			"if __name__ == \"__main__\":",
 			"\tmain()\n",
 		],
-		"description": "Insert AoD template"
+		"description": "Insert AoC template"
 	}
 }
